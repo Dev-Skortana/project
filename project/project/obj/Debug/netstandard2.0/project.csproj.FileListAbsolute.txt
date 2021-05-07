@@ -1,0 +1,14 @@
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\bin\Debug\netstandard2.0\project.deps.json
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\bin\Debug\netstandard2.0\project.dll
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\bin\Debug\netstandard2.0\ref\project.dll
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\bin\Debug\netstandard2.0\project.pdb
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\project.csprojAssemblyReference.cache
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\project.AssemblyInfoInputs.cache
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\project.AssemblyInfo.cs
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\project.csproj.CoreCompileInputs.cache
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\project.dll
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\ref\project.dll
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\project\project\project\obj\Debug\netstandard2.0\project.pdb

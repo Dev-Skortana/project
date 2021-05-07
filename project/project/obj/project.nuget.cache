@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1mU1dWQ8i3T9rVJ8CNhSdUyfR3U/7uNdTvQvy9CzOlpQIKQJhFRyGE+amR42q72qt/w44G5xPzxWndOUO5GYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spart\\OneDrive\\Documents\\Visual Studio 2019\\Projects\\project\\project\\project\\project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spart\\.nuget\\packages\\gembox.document\\33.0.1187\\gembox.document.33.0.1187.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\portable.bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.1\\system.security.cryptography.pkcs.5.0.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\spart\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

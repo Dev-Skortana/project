@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="project.MainPage">
+
+    <StackLayout>
+        
+        <Label Text="Build document" FontSize="16" Padding="30,0,30,0"/>
+        <Button Text="" Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

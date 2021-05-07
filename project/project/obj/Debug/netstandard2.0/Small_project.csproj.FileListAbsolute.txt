@@ -1,0 +1,13 @@
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\bin\Debug\netstandard2.0\Small_project.deps.json
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\bin\Debug\netstandard2.0\Small_project.dll
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\bin\Debug\netstandard2.0\ref\Small_project.dll
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\bin\Debug\netstandard2.0\Small_project.pdb
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\Small_project.AssemblyInfoInputs.cache
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\Small_project.AssemblyInfo.cs
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\Small_project.csproj.CoreCompileInputs.cache
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\Small_project.dll
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\ref\Small_project.dll
+C:\Users\spart\OneDrive\Documents\Visual Studio 2019\Projects\Small_project\Small_project\Small_project\obj\Debug\netstandard2.0\Small_project.pdb
